@@ -1,7 +1,4 @@
-<!--
-Perfil de GitHub - Gabriela Julio Duarte
-Estilo: oscuro, llamativo. Bilingüe (ES/EN).
--->
+<!-- Perfil de GitHub - Gabriela Julio Duarte | Estilo oscuro y bilingüe -->
 
 <p align="center">
   <img src="banner.png" alt="Banner de Gabriela Julio Duarte - Full Stack Developer" />
@@ -9,7 +6,7 @@ Estilo: oscuro, llamativo. Bilingüe (ES/EN).
 
 # 👋 ¡Hola! Soy **Gabriela Julio Duarte**
 **Full Stack Developer | Frontend-Oriented**  
-📍 Bogotá, Colombia &nbsp;•&nbsp; 🌎 Remoto / Híbrido
+📍 Bogotá, Colombia • 🌎 Remoto / Híbrido
 
 Soy desarrolladora con más de **3 años de experiencia** construyendo interfaces rápidas, accesibles y escalables con **React, Next.js y Node.js**. Me apasiona crear productos útiles, colaborar con equipos ágiles y mejorar la DX (developer experience).
 
@@ -27,7 +24,7 @@ Soy desarrolladora con más de **3 años de experiencia** construyendo interface
 ### 💡 Sobre mí
 - 🎓 Ingeniera de Sistemas (UNIMINUTO). Inglés **B2**.  
 - 🧩 Experta en **microservicios, REST/GraphQL**, y **CI/CD** con GitHub Actions y Docker.  
-- 📈 Me enfocó en **performance**, **accesibilidad** y **buenas prácticas** (SOLID, Clean Architecture, TDD).  
+- 📈 Me enfoco en **performance**, **accesibilidad** y **buenas prácticas** (SOLID, Clean Architecture, TDD).  
 - ✨ Objetivo 2025: aportar a productos con impacto y seguir creciendo como **Frontend** con **React/Next.js**.
 
 ### 🧪 En qué estoy trabajando
@@ -37,25 +34,15 @@ Soy desarrolladora con más de **3 años de experiencia** construyendo interface
 ---
 
 ## 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielaJulioD&show_icons=true&theme=tokyonight" alt="GitHub Stats de Gabriela" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielaJulioD&theme=tokyonight" alt="GitHub Streak de Gabriela" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaJulioD&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielaJulioD&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://streak-stats.demolab.com?user=GabrielaJulioD&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaJulioD&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 📫 Contacto | Contact
-<a href="https://www.linkedin.com/in/gabriela-j-8596a91b0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:gabrielajduar@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-j-8596a91b0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielajduar@gmail.com)
 
 ---
 
@@ -64,7 +51,7 @@ Soy desarrolladora con más de **3 años de experiencia** construyendo interface
 I build fast and accessible web apps with **React, Next.js, Node.js**, and AWS. Strong focus on code quality, DX, and product impact.
 
 **Tech:** React • Next.js • TypeScript • Node.js • Tailwind CSS • AWS • Docker • REST/GraphQL • CI/CD  
-**Reach me:** *Replace with your* LinkedIn *and* Email *above*.
+**Reach me:** LinkedIn and Email above.
 
 ---
 > *“La programación no es solo código: es transformar ideas en experiencias útiles.”*
