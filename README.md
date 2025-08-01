@@ -4,7 +4,7 @@ Estilo: oscuro, llamativo. Bilingüe (ES/EN).
 -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner de Gabriela Julio Duarte - Full Stack Developer" />
+  <img src="banner.png" alt="Banner de Gabriela Julio Duarte - Full Stack Developer" />
 </p>
 
 # 👋 ¡Hola! Soy **Gabriela Julio Duarte**
